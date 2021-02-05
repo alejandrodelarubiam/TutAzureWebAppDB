@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "hostingPlanName": {
-      "value": "houssemdellai-service-plan"
+      "value": "alejandrodelarubiam-service-plan"
     },
     "administratorLogin": {
-      "value": "houssem"
+      "value": "alejandrodelarubiam"
     },
     "administratorLoginPassword": {
-      "value": "@Aa123456"
+      "value": "19960819Aa"
     },
     "databaseName": {
       "value": "EmployeesDB"
     },
     "webSiteName": {
-      "value": "houssemdellai-webapp"
+      "value": "alejandrodelarubiamtut-webapp"
     },
     "sqlserverName": {
-      "value": "houssemdellai-sql"
+      "value": "sqlserver-dbalex"
     }
   }
 }
